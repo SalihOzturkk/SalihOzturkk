@@ -5,7 +5,7 @@
 - 💞️  İşbirliği ve grup çalışmalarına karşı oldukça açık bir insanım. İş dünyasında ve projelerde bir araya gelmek, farklı bakış açılarından güç almak benim için farklı insanları ve fikirleri tanımanın reddedilemez bir yolu.
 - 📫 Bana Ulaşmak İstendiğinizde Ulaşabileceğiniz İletişim bilgilerim;
 - 📞 +90 533 293 28 69
-- 📧 @salihozturk1012@gmail.com
+- 📧 salihozturk1012@gmail.com
 
 <!---
 SalihOzturkk/SalihOzturkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
