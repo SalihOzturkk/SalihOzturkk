@@ -1,4 +1,4 @@
-- 👋 Merhaba Ben "Salih Ozturk" 18 yaşında Akdeniz Üniversitesinde, Bilgisayar Programcılığı
+- 👋 Merhaba Ben "Salih Öztürk" 18 yaşında Akdeniz Üniversitesinde, Bilgisayar Programcılığı
 - bölümünde okuyan bir öğrenciyim. Daha Öncesinde Bilgisayarlar üzerine birçok ders ve sertifika aldım,fakat bu eğitimler Bilgisayar Ağları üzerineydi,Artık ise yazılım üzerine uğraşıyorum.
 - 👀 İlgi Alanlarım ise; Spor,Müzik,Ticaret,Girişimcilik Ve Bilgisayarlar...
 - 🌱 Dijital dünyanın sunduğu sayısız nimet bana göre insanların kendini geliştirebilmesi için mükemmel bir fırsat. Hem yazılım hem Network hem de Web tasarımı alanında edindiğim bilgilerle, dijital dünyanın karmaşıklığını anlamaya ve çözmeye çalışıyorum.
