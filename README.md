@@ -1,10 +1,13 @@
-- 👋 Merhaba Ben "Salih Öztürk" 19 yaşında Akdeniz Üniversitesinde, Bilgisayar Programcılığı
-- bölümünde okuyan bir öğrenciyim. Daha Öncesinde Bilgisayarlar üzerine birçok ders ve sertifika aldım,fakat bu eğitimler Bilgisayar Ağları üzerineydi,Artık ise yazılım üzerine uğraşıyorum.
-- 👀 İlgi Alanlarım ise; Spor,Müzik,Ticaret,Girişimcilik Ve Bilgisayarlar...
-- 🌱 Dijital dünyanın sunduğu sayısız nimet bana göre insanların kendini geliştirebilmesi için mükemmel bir fırsat. Hem yazılım hem Network hem de Web tasarımı alanında edindiğim bilgilerle, dijital dünyanın karmaşıklığını anlamaya ve çözmeye çalışıyorum.
-- 💞️  İşbirliği ve grup çalışmalarına karşı oldukça açık bir insanım. İş dünyasında ve projelerde bir araya gelmek, farklı bakış açılarından güç almak, benim için farklı insanları ve fikirleri tanımanın reddedilemez bir yolu.
-- 📫 Bana Ulaşmak İstediğinizde Ulaşabileceğiniz İletişim Bilgilerim;
-- 📞 +90 533 293 28 69
+👋 Hi, I’m "Salih Öztürk," a 19-year-old student studying Computer Programming at Akdeniz University. I have previously taken many courses and earned certificates related to computers, but those trainings were focused on Computer Networks. Now, I am diving into software.
+
+👀 My interests include Sports, Music, Trade, Entrepreneurship, and Computers.
+
+🌱 To me, the countless opportunities offered by the digital world are a perfect chance for self-improvement. With the knowledge I've gained in software, network, and web design, I strive to understand and solve the complexities of the digital world.
+
+💞️ I am quite open to collaboration and teamwork. Coming together in the business world and projects, drawing strength from different perspectives, is an undeniable way for me to meet and understand new people and ideas.
+
+📫 If you want to reach out to me, you can contact me at: 
+📞 +90 533 293 28 69
 - 📧 salihozturk1012@gmail.com
 
 <!---
