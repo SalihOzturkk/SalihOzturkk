@@ -8,7 +8,7 @@
 
 📫 If you want to reach out to me, you can contact me at: 
 📞 +90 533 293 28 69
-- 📧 salihozturk1012@gmail.com
+📧 salihozturk1012@gmail.com
 
 <!---
 SalihOzturkk/SalihOzturkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
