@@ -1,12 +1,14 @@
-👋 Hi, I’m "Salih Öztürk," a 19-year-old student studying Computer Programming at Akdeniz University. I have previously taken many courses and earned certificates related to computers, but those trainings were focused on Computer Networks. Now, I am diving into software.
+👋 Hi, I’m Salih Öztürk, a 20-year-old graduate of Computer Programming at Akdeniz University.
 
-👀 My interests include Sports, Music, Trade, Entrepreneurship, and Computers.
+💻 I have a strong foundation in Computer Networks, supported by numerous certifications I earned through various trainings in the IT field. In recent years, I’ve shifted my focus towards Software Development, Web Design, and Programming—areas that truly ignite my passion.
 
-🌱 To me, the countless opportunities offered by the digital world are a perfect chance for self-improvement. With the knowledge I've gained in software, network, and web design, I strive to understand and solve the complexities of the digital world.
+🚀 My interests include Sports, Music, Entrepreneurship, Trading, and of course, Technology. I believe the digital world offers limitless opportunities for personal and professional growth.
 
-💞️ I am quite open to collaboration and teamwork. Coming together in the business world and projects, drawing strength from different perspectives, is an undeniable way for me to meet and understand new people and ideas.
+🌱 With my background in networks, software, and web technologies, I aim to analyze and solve real-world problems using modern digital solutions. I’m especially passionate about learning new technologies and improving myself through hands-on projects.
 
-📫 If you want to reach out to me, you can contact me at: 
+🤝 I strongly value collaboration and teamwork. Sharing knowledge, building things together, and learning from different perspectives is what drives me forward. I enjoy meeting new people, working on impactful projects, and growing together with others in the tech ecosystem.
+
+📫 Feel free to get in touch with me:
 📞 +90 533 293 28 69
 📧 salihozturk1012@gmail.com
 
