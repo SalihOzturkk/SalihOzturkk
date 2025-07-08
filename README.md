@@ -1,18 +1,35 @@
-👋 Hi, I’m Salih Öztürk, a 20-year-old graduate of Computer Programming at Akdeniz University.
+# 👋 Hi, I’m Salih Öztürk
 
-💻 I have a strong foundation in Computer Networks, supported by numerous certifications I earned through various trainings in the IT field. In recent years, I’ve shifted my focus towards Software Development, Web Design, and Programming—areas that truly ignite my passion.
+I’m a 20-year-old graduate of **Computer Programming** at **Akdeniz University**.
 
-🚀 My interests include Sports, Music, Entrepreneurship, Trading, and of course, Technology. I believe the digital world offers limitless opportunities for personal and professional growth.
+---
 
-🌱 With my background in networks, software, and web technologies, I aim to analyze and solve real-world problems using modern digital solutions. I’m especially passionate about learning new technologies and improving myself through hands-on projects.
+## 💻 About Me
 
-🤝 I strongly value collaboration and teamwork. Sharing knowledge, building things together, and learning from different perspectives is what drives me forward. I enjoy meeting new people, working on impactful projects, and growing together with others in the tech ecosystem.
+- I started my journey with a strong focus on **Computer Networks**, earning several certifications through various trainings.
+- Over time, I’ve expanded my skill set into **Software Development**, **Web Design**, and **Programming**.
+- I'm always eager to learn, build, and grow within the ever-evolving tech world.
 
-📫 Feel free to get in touch with me:
-📞 +90 533 293 28 69
-📧 salihozturk1012@gmail.com
+---
 
-<!---
-SalihOzturkk/SalihOzturkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 My Interests
+
+- **Technology**
+- **Entrepreneurship**
+- **Trade & Business**
+- **Sports & Music**
+
+I see the digital world as an endless field of opportunity and growth. With a combination of my knowledge in software, networks, and design, I’m committed to solving real-world problems through creative solutions.
+
+---
+
+## 🤝 Let’s Connect
+
+I'm a strong believer in **collaboration and teamwork**. I enjoy building meaningful projects, meeting new people, and learning from different perspectives.
+
+---
+
+## 📫 Contact Me
+
+- 📞 Phone: +90 533 293 28 69  
+- 📧 Email: [salihozturk1012@gmail.com](mailto:salihozturk1012@gmail.com)
